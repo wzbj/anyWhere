@@ -1,0 +1,2 @@
+# anyWhere
+node static server
